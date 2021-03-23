@@ -2,8 +2,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocoll&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Goscan)](https://github.com/jiaocoll/Goscan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Goip)](https://github.com/jiaocoll/Goip)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=GoSubDomainBrute)](https://github.com/jiaocoll/GoSubDomainBrute)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Algorithm-practice)](https://github.com/jiaocoll/Algorithm-practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Collect-POC)](https://github.com/jiaocoll/Collect-POC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Android-Project)](https://github.com/zhangwenda4917/Android-Project)
 
 <!--
 **jiaocoll/jiaocoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
