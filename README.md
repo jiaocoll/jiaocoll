@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Algorithm-practice)](https://github.com/jiaocoll/Algorithm-practice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=GoBackupscan)](https://github.com/jiaocoll/GoBackupscan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiaocoll&repo=Collect-POC)](https://github.com/jiaocoll/Collect-POC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JinCheng4917&repo=Android-Project)](https://github.com/JinCheng4917/Android-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JinCheng4917&repo=Android)](https://github.com/JinCheng4917/Android)
 
 
 
