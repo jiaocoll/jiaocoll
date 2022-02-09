@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocoll&layout=compact&theme=radical)](https://github.com/jiaocoll)
 
+[![Ameng's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiaocoll&theme=dracula)]
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jiaocoll.jiaocoll)
 
 
