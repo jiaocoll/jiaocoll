@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocoll&layout=compact&theme=radical)](https://github.com/jiaocoll)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jiaocoll.visitor-badge&left_color=gray&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jiaocoll.visitor-badge)
 
 
 
